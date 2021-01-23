@@ -1,0 +1,13 @@
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\bin\Debug\netcoreapp3.1\Dictonary.exe
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\bin\Debug\netcoreapp3.1\Dictonary.deps.json
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\bin\Debug\netcoreapp3.1\Dictonary.runtimeconfig.json
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\bin\Debug\netcoreapp3.1\Dictonary.runtimeconfig.dev.json
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\bin\Debug\netcoreapp3.1\Dictonary.dll
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\bin\Debug\netcoreapp3.1\Dictonary.pdb
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.csprojAssemblyReference.cache
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.AssemblyInfoInputs.cache
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.AssemblyInfo.cs
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.csproj.CoreCompileInputs.cache
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.dll
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.pdb
+C:\Users\Samet\Desktop\MASAÜSTÜ\Visual\Dictonary\Dictonary\obj\Debug\netcoreapp3.1\Dictonary.genruntimeconfig.cache
